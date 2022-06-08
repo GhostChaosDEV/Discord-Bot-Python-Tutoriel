@@ -78,4 +78,4 @@ async def play(ctx, url):
         play_song(client, musics[ctx.guild], video)
 
 
-bot.run("NzA3Njc4MjI1MDA1OTM2NjUy.XuTjmQ.a8DemMEE1Z5UIvRNcIe6I1yU8NE")
+bot.run("OTg0MDM2NTYzMzkyNTU3MDg2.GxnDuk.FcFkkiZH-3NFIaAG4GJDhoT_hYctEv0d1UCfco")
